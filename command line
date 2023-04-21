@@ -1,0 +1,5 @@
+###Push repository from my computer
+
+git remote add origin https://github.com/novackvirginea/projetofinal.git
+git branch -M main
+git push -u origin main
